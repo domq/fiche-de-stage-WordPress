@@ -223,6 +223,17 @@ installez-le sur votre machine . Ensuite, prenez une à deux heures pour essayer
 de faire fonctionner WordPress avec Docker sur votre machine, puis demandez de
 l’aide à la personne responsable du stage.
 
+## Étapes intermédiaires
+
+1. Installer Docker (si pas déjà fait)
+2. Créer un fichier `docker-compose.yml` minimal et lancer les conteneurs qui y sont décrits. <br/>
+   Pour rester dans la ligne de l'exercice, nous allons installer et faire tourner
+   - MariaDB
+   - PHPMyAdmin
+3. On rajoutera ensuite Apache avec WordPress dedans.
+
+## Documentation et validation de la quatrième partie
+
 Votre documentation doit contenir une petite introduction sur Docker et
 expliquer en quoi la conteneurisation est différente de la virtualisation. Votre
 documentation liste les commandes principales qu’il faut connaître pour utiliser
