@@ -210,7 +210,7 @@ l’utilisation de conteneurs, [Solomon Hykes] a rendu cela possible. « [Docker
 est un outil qui peut empaqueter une application et ses dépendances dans un
 conteneur isolé, qui pourra être exécuté sur n’importe quel serveur ».
 
-Dans cette troisième partie vous devez **créer un kit de développement**
+Dans cette quatrième partie vous devez **créer un kit de développement**
 WordPress fonctionnant sur votre machine avec [Docker] et [docker compose].
 
 Dans la première partie, vous avez du lister les éléments dont WordPress avait
